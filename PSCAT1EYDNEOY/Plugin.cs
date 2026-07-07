@@ -8,14 +8,14 @@ using HarmonyLib;
 using MonoMod.RuntimeDetour;
 using UnityEngine;
 
-namespace ModNamespace
+namespace PSCAT1EYDNEOY
 {
     [BepInPlugin(ModGUID, ModName, ModVersion)]
     public class Plugin : BaseUnityPlugin
     {
-        public const string ModGUID = "modauthor.modname";
-        public const string ModName = "ModName";
-        public const string ModVersion = "0.0.0";
+        public const string ModGUID = "leftie.PSCAT1EYDNEOY";
+        public const string ModName = "Please Stop Complaining About Tier 1 Encumbrance You Do Need Everything On You ";
+        public const string ModVersion = "1.0.0";
 
         internal static new ManualLogSource Logger;
         private readonly Harmony _harmony = new(ModGUID);

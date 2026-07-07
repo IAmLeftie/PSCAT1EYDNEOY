@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSCAT1EYDNEOY", "PSCAT1EYDNEOY.csproj", "{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|x64.ActiveCfg = Debug|x64
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|x64.Build.0 = Debug|x64
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|x86.ActiveCfg = Debug|x86
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Debug|x86.Build.0 = Debug|x86
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|x64.ActiveCfg = Release|x64
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|x64.Build.0 = Release|x64
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|x86.ActiveCfg = Release|x86
+		{00DE53CB-BE07-D43A-2939-9B709CCF2B6D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB74544C-1440-4CCA-AC69-E7EE5376675D}
+	EndGlobalSection
+EndGlobal
